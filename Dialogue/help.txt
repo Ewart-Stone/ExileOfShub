@@ -1,0 +1,10 @@
+W = move up
+A = move left
+S = move down
+D = move right
+E = open/close inventory
+Enter = interact with objects (desks and doors)
+F = yell (lures enemy)
+Up arrow = hide in wardrobe
+Down arrow = get out of wardrobe
+Esc = go back
